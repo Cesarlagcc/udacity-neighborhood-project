@@ -156,5 +156,5 @@ function startApp() {
 }
 // This should alert the user if the the page is having issues load the site.
 function errorHandling() {
-    alert("Google Maps has failed to load. Please try again later.");
+    alert("There seems to have been an error with the map, please refresh the page");
 }
